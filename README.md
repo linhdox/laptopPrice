@@ -1,2 +1,2 @@
 # laptopPrice
-laptop Price file for Stat final project
+csv file Stat final project 
